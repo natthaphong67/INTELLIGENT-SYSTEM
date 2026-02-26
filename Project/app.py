@@ -458,7 +458,7 @@ Student ID: 6704062611336
 
 Course : INTELLIGENT SYSTEM (IS)
 
-Github: 
+Github: https://github.com/natthaphong67/INTELLIGENT-SYSTEM.git
 
 </div>
 """,
